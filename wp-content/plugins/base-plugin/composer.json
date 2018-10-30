@@ -1,0 +1,9 @@
+{
+    "name": "Base Plugin",
+    "description": "Bespoke WordPress Plugin for Base functions",
+    "autoload": {
+        "psr-4": {
+            "Base\\": "classes/Base"
+        }
+    }
+}
