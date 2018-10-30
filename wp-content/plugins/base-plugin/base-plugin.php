@@ -9,3 +9,5 @@
 
 if( !defined('ABSPATH') )
     die('Access denied.');
+
+require_once dirname( __FILE__ ) . '/vendor/autoload.php';
