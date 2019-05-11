@@ -1,2 +1,2 @@
-# boh-wp
-Brigade Of Honor Guild Website
+# Wordpress docker
+[WIP] do not use
