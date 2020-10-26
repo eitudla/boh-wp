@@ -1,0 +1,7 @@
+# run queue
+* * * * * /var/www/code/bin/cake Queue.queue runworker > /dev/null 2>&1
+
+# clear logs
+0 4 * * Sun /var/www/code/bin/cake Logs clearAll -b > /dev/null 2>&1
+
+#MAKE SURE TO LEAVE NEW LINE AFTER THIS
