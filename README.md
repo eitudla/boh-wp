@@ -1,2 +1,3 @@
 # Wordpress docker
-[WIP] do not use
+
+- docker for wordpress
